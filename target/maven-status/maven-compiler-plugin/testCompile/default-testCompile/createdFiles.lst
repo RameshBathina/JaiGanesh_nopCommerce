@@ -1,0 +1,9 @@
+com\commproj\testcases\TC_LoginTest_0001.class
+com\commproj\pageobjects\AddCustPage.class
+com\commproj\utilities\XLUtils2.class
+com\commproj\testcases\TC_AddCustTest_003.class
+com\commproj\pageobjects\LoginPage.class
+com\commproj\testcases\BaseClass.class
+com\commproj\testcases\TC_Login_DDT_002.class
+com\commproj\utilities\ReadConfig.class
+com\commproj\utilities\Reporting.class
