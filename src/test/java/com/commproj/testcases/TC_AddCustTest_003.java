@@ -66,8 +66,8 @@ public class TC_AddCustTest_003 extends BaseClass
 	
 	addcust.cancelDefaultRole();//To cancel the default role that was already auto populated
 	
-	addcust.setCustRoles("Forum Moderators");
-	addcust.setCustRoles("Guests");
+	//addcust.setCustRoles("Forum Moderators");
+	addcust.setCustRoles("Registered");
 	logger.info("Role has been selected successfully");
 	
 	addcust.setVendorMngr("Vendor 2");
