@@ -868,3 +868,9 @@
 2020-02-10 19:00:26,472 [main] INFO CommProj - Clicked on the button
 2020-02-10 19:00:46,142 [main] INFO CommProj - Login Test Fail
 2020-02-10 19:00:51,775 [main] INFO CommProj - Clicked on Logout successfully
+2020-02-10 19:02:00,927 [main] INFO CommProj - URL Opened
+2020-02-10 19:02:01,705 [main] INFO CommProj - Username has been entered successfully
+2020-02-10 19:02:01,936 [main] INFO CommProj - Password has been entered successfully
+2020-02-10 19:02:05,754 [main] INFO CommProj - Clicked on the button
+2020-02-10 19:02:14,980 [main] INFO CommProj - Login Test Pass
+2020-02-10 19:02:23,287 [main] INFO CommProj - Clicked on Logout successfully

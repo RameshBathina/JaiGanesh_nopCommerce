@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="77939" started-at="2020-02-10T13:30:01Z" finished-at="2020-02-10T13:31:19Z">
+  <suite name="Suite" duration-ms="89926" started-at="2020-02-10T13:31:49Z" finished-at="2020-02-10T13:33:19Z">
     <groups>
     </groups>
-    <test name="Test1" duration-ms="77939" started-at="2020-02-10T13:30:01Z" finished-at="2020-02-10T13:31:19Z">
+    <test name="Test1" duration-ms="89926" started-at="2020-02-10T13:31:49Z" finished-at="2020-02-10T13:33:19Z">
       <class name="com.commproj.testcases.TC_LoginTest_0001">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.commproj.testcases.TC_LoginTest_0001@1794d431]" name="setup" is-config="true" duration-ms="7987" started-at="2020-02-10T13:30:03Z" finished-at="2020-02-10T13:30:11Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.commproj.testcases.TC_LoginTest_0001@1794d431]" name="setup" is-config="true" duration-ms="6702" started-at="2020-02-10T13:31:50Z" finished-at="2020-02-10T13:31:56Z">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="login()[pri:0, instance:com.commproj.testcases.TC_LoginTest_0001@1794d431]" name="login" duration-ms="40216" started-at="2020-02-10T13:30:11Z" finished-at="2020-02-10T13:30:51Z">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.commproj.testcases.TC_LoginTest_0001@1794d431]" name="login" duration-ms="26412" started-at="2020-02-10T13:31:56Z" finished-at="2020-02-10T13:32:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.commproj.testcases.TC_LoginTest_0001@1794d431]" name="teardown" is-config="true" duration-ms="27901" started-at="2020-02-10T13:30:51Z" finished-at="2020-02-10T13:31:19Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.commproj.testcases.TC_LoginTest_0001@1794d431]" name="teardown" is-config="true" duration-ms="56213" started-at="2020-02-10T13:32:23Z" finished-at="2020-02-10T13:33:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
