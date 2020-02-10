@@ -820,3 +820,17 @@
 2020-02-09 14:47:49,868 - CommProj -INFO - Vendor has been selected
 2020-02-09 14:47:54,431 - CommProj -INFO - Validation has been started
 2020-02-09 14:47:56,068 - CommProj -INFO - Test Pass
+2020-02-10 10:21:56,964 - CommProj -INFO - URL Opened
+2020-02-10 10:21:58,364 - CommProj -INFO - Username has been entered successfully
+2020-02-10 10:21:58,687 - CommProj -INFO - Password has been entered successfully
+2020-02-10 10:22:07,946 - CommProj -INFO - Clicked on the button
+2020-02-10 10:22:13,941 - CommProj -INFO - Login Test Fail
+2020-02-10 10:22:19,281 - CommProj -INFO - Clicked on Logout successfully
+2020-02-10 10:22:35,382 - CommProj -INFO - URL is Opened
+2020-02-10 10:22:35,748 - CommProj -INFO - Username has been entered successfully
+2020-02-10 10:22:35,912 - CommProj -INFO - Password has been entered successfully
+2020-02-10 10:22:41,326 - CommProj -INFO - Clicked on the button
+2020-02-10 10:22:44,327 - CommProj -INFO - Providing the new customer details..
+2020-02-10 10:22:59,155 - CommProj -INFO - Gender has been selected
+2020-02-10 10:22:59,515 - CommProj -INFO - DOB has been entered
+2020-02-10 10:23:00,327 - CommProj -INFO - Store Name has been entered
