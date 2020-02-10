@@ -31,7 +31,7 @@ public class TC_LoginTest_0001 extends BaseClass
 		logger.info("Clicked on the button");
 		Thread.sleep(5000);
 		
-		if(driver.getTitle().equals("Dashboard / nopCommerce administration123"))
+		if(driver.getTitle().equals("Dashboard / nopCommerce administration"))
 		{
 			System.out.println("Login Successful");
 			logger.info("Login Test Pass");

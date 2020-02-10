@@ -862,3 +862,9 @@
 2020-02-10 11:33:52,602 [main] INFO CommProj - Vendor has been selected
 2020-02-10 11:33:57,586 [main] INFO CommProj - Validation has been started
 2020-02-10 11:33:59,985 [main] INFO CommProj - Test Pass
+2020-02-10 19:00:16,643 [main] INFO CommProj - URL Opened
+2020-02-10 19:00:17,034 [main] INFO CommProj - Username has been entered successfully
+2020-02-10 19:00:17,207 [main] INFO CommProj - Password has been entered successfully
+2020-02-10 19:00:26,472 [main] INFO CommProj - Clicked on the button
+2020-02-10 19:00:46,142 [main] INFO CommProj - Login Test Fail
+2020-02-10 19:00:51,775 [main] INFO CommProj - Clicked on Logout successfully

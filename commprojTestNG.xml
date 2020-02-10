@@ -10,9 +10,9 @@
   <test name="Test1">
   <parameter name="browser" value="chrome"/>
     <classes>
-     <!-- <class name="com.commproj.testcases.TC_LoginTest_0001"/>
-     <class name="com.commproj.testcases.TC_Login_DDT_002"/>-->
-      <class name="com.commproj.testcases.TC_AddCustTest_003"/>
+     <class name="com.commproj.testcases.TC_LoginTest_0001"/>
+     <!-- <class name="com.commproj.testcases.TC_Login_DDT_002"/>
+      <class name="com.commproj.testcases.TC_AddCustTest_003"/>-->
     </classes>
   </test>
      
